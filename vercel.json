@@ -1,1 +1,15 @@
-{}
+{
+  "builds": [
+    { "src": "api/bookings.js", "use": "@vercel/node" },
+    { "src": "index.html", "use": "@vercel/static" },
+    { "src": "availability.json", "use": "@vercel/static" },
+    { "src": "css/**", "use": "@vercel/static" },
+    { "src": "js/**", "use": "@vercel/static" },
+    { "src": "assets/**", "use": "@vercel/static" }
+  ],
+  "routes": [
+    { "src": "/api/bookings", "dest": "/api/bookings.js" },
+    { "src": "/", "dest": "/index.html" },
+    { "handle": "filesystem" }
+  ]
+}
