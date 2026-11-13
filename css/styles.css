@@ -188,6 +188,7 @@ html[data-theme="dark"] .btn-ghost:hover { color: var(--accent-strong); }
 }
 .brand { display: flex; align-items: center; gap: 12px; flex-shrink: 0; }
 .brand-mark { color: var(--accent); }
+.brand-mark img { width: 56px; height: 56px; object-fit: contain; }
 .brand-text strong {
   display: block;
   font-family: var(--font-display);
