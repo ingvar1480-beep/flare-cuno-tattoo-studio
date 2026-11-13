@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Тату-эскиз: череп">
+<rect width="800" height="1000" fill="#14110f"/>
+<g fill="none" stroke="#e8ddcc" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+<path d="M400 200c-110 0-185 80-185 180 0 60 25 100 60 130v70c0 20 15 35 35 35h180c20 0 35-15 35-35v-70c35-30 60-70 60-130 0-100-75-180-185-180Z"/>
+<path d="M320 430v90M480 430v90M320 520h160"/>
+</g>
+<g fill="none" stroke="#ff6b45" stroke-width="6" stroke-linecap="round">
+<path d="M335 380c-22 0-38 18-38 40s16 40 38 40 38-18 38-40-16-40-38-40Z"/>
+<path d="M465 380c-22 0-38 18-38 40s16 40 38 40 38-18 38-40-16-40-38-40Z"/>
+<path d="M400 360v60"/>
+</g>
+<g fill="none" stroke="#e8ddcc" stroke-width="5" stroke-linecap="round">
+<path d="M400 615v55M370 615v55M430 615v55M340 625v45M460 625v45"/>
+<path d="M300 240c-30 30-45 70-45 110M500 240c30 30 45 70 45 110"/>
+<path d="M400 200v-60M360 165h80"/>
+</g>
+</svg>

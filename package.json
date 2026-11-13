@@ -1,0 +1,14 @@
+{
+  "name": "flarecunotattoo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Сайт тату-салона FLARE CUNO TATTOO STUDIO",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

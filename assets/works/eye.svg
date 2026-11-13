@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Тату-эскиз: всевидящее око">
+<rect width="800" height="1000" fill="#14110f"/>
+<g fill="none" stroke="#e8ddcc" stroke-width="6.5" stroke-linecap="round" stroke-linejoin="round">
+<path d="M150 420c80-95 170-140 250-140s170 45 250 140c-80 95-170 140-250 140s-170-45-250-140Z"/>
+</g>
+<g fill="none" stroke="#ff6b45" stroke-width="6" stroke-linecap="round">
+<circle cx="400" cy="420" r="62"/>
+<circle cx="400" cy="420" r="24"/>
+<path d="M400 330v-40M400 510v40M310 420h-40M490 420h40"/>
+<path d="M335 355l-28-28M465 355l28-28M335 485l-28 28M465 485l28 28"/>
+</g>
+<g fill="none" stroke="#e8ddcc" stroke-width="4.5" stroke-linecap="round">
+<path d="M400 620c-60 30-110 75-145 130M400 620c60 30 110 75 145 130"/>
+<path d="M300 790c-30 20-50 50-60 85M500 790c30 20 50 50 60 85"/>
+<circle cx="255" cy="890" r="10"/><circle cx="545" cy="890" r="10"/>
+</g>
+</svg>

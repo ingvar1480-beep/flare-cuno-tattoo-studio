@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Тату-эскиз: мандала">
+<rect width="800" height="1000" fill="#14110f"/>
+<g fill="none" stroke="#e8ddcc" stroke-width="5" stroke-linecap="round">
+<circle cx="400" cy="440" r="60"/>
+<circle cx="400" cy="440" r="110"/>
+<circle cx="400" cy="440" r="170"/>
+<circle cx="400" cy="440" r="220"/>
+</g>
+<g fill="none" stroke="#e8ddcc" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round">
+<path d="M400 170c30 40 30 90 0 130-30-40-30-90 0-130Z"/>
+<path d="M400 710c30-40 30-90 0-130-30 40-30 90 0 130Z"/>
+<path d="M130 440c40-30 90-30 130 0-40 30-90 30-130 0Z"/>
+<path d="M670 440c-40-30-90-30-130 0 40 30 90 30 130 0Z"/>
+<path d="M210 250c45 15 75 50 90 95-45-15-75-50-90-95Z"/>
+<path d="M590 250c-45 15-75 50-90 95 45-15 75-50 90-95Z"/>
+<path d="M210 630c45-15 75-50 90-95-45 15-75 50-90 95Z"/>
+<path d="M590 630c-45-15-75-50-90-95 45 15 75 50 90 95Z"/>
+</g>
+<g fill="none" stroke="#ff6b45" stroke-width="6" stroke-linecap="round">
+<circle cx="400" cy="440" r="26"/>
+<path d="M400 780v60M340 840h120"/>
+</g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Тату-эскиз: луна и травы">
+<rect width="800" height="1000" fill="#14110f"/>
+<g fill="none" stroke="#e8ddcc" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+<path d="M470 180a190 190 0 1 0 120 340 160 160 0 0 1-120-340Z"/>
+</g>
+<g fill="none" stroke="#e8ddcc" stroke-width="4.5" stroke-linecap="round">
+<path d="M180 700c20-70 15-140-10-210M180 700c-25-70-30-140-10-210"/>
+<path d="M180 700c30-45 75-70 130-80M180 700c-35-40-80-60-130-65"/>
+<path d="M300 760c15-60 10-120-8-175M300 760c-20-60-25-120-8-175"/>
+<path d="M440 800c12-55 8-110-8-160M440 800c-18-55-22-110-8-160"/>
+<path d="M580 780c14-55 10-110-6-155M580 780c-18-52-22-105-6-155"/>
+<path d="M680 720c10-45 6-90-8-130M680 720c-14-45-18-90-8-130"/>
+</g>
+<g fill="none" stroke="#ff6b45" stroke-width="5" stroke-linecap="round">
+<path d="M120 860h560"/>
+<circle cx="400" cy="880" r="8"/>
+</g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Тату-эскиз: рука">
+<rect width="800" height="1000" fill="#14110f"/>
+<g fill="none" stroke="#e8ddcc" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+<path d="M330 760V420c0-40 30-70 70-70s70 30 70 70v340"/>
+<path d="M330 500c-35 0-60 25-60 60v150c0 30-25 55-55 55"/>
+<path d="M470 520c35 0 60 25 60 60v130c0 35 25 60 60 70"/>
+<path d="M360 350v-60c0-20 15-35 35-35s35 15 35 35v60"/>
+<path d="M300 480c-18 0-32 14-32 32M500 500c18 0 32 14 32 32"/>
+</g>
+<g fill="none" stroke="#ff6b45" stroke-width="6" stroke-linecap="round">
+<path d="M400 180v90"/>
+<path d="M350 230l50 40 50-40"/>
+<circle cx="400" cy="150" r="14"/>
+</g>
+<g fill="none" stroke="#e8ddcc" stroke-width="4.5" stroke-linecap="round">
+<path d="M330 560c40 15 100 15 140 0M330 640c40 15 100 15 140 0"/>
+<path d="M270 850h260"/>
+</g>
+</svg>

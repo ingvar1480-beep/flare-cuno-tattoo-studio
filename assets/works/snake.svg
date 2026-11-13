@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Тату-эскиз: змея и пион">
+<rect width="800" height="1000" fill="#14110f"/>
+<g fill="none" stroke="#e8ddcc" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+<path d="M620 200c-90-60-210-40-250 40-36 72 20 130-10 200-34 80-160 80-190 10"/>
+<path d="M640 160c30 10 45 35 35 60-10 25-40 35-60 20"/>
+<path d="M180 470c-25 8-42 30-38 55 5 28 35 44 60 33"/>
+<path d="M230 300c50 10 95 5 130-20"/>
+<path d="M400 260c35 40 55 85 60 135"/>
+</g>
+<g fill="none" stroke="#ff6b45" stroke-width="6" stroke-linecap="round">
+<path d="M232 512l-14 34M212 512l-14 34"/>
+<circle cx="205" cy="495" r="9"/>
+</g>
+<g fill="none" stroke="#e8ddcc" stroke-width="5" stroke-linecap="round">
+<path d="M520 520c-40 30-95 25-120-10"/>
+<path d="M500 560c-45 25-100 15-125-20"/>
+<circle cx="470" cy="480" r="26"/>
+<circle cx="470" cy="480" r="13"/>
+<path d="M470 452c14-18 40-14 46 6M496 486c14 20 0 44-24 40M452 506c-22 12-46-4-40-28M444 466c-8-20 12-38 32-28"/>
+<path d="M400 590c30 25 70 35 105 25M395 625c35 20 75 25 110 12"/>
+<path d="M300 700c20 25 60 35 90 20M310 740c25 20 60 25 88 10"/>
+</g>
+</svg>

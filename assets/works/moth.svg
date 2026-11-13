@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Тату-эскиз: мотылёк">
+<rect width="800" height="1000" fill="#14110f"/>
+<g fill="none" stroke="#e8ddcc" stroke-width="6.5" stroke-linecap="round" stroke-linejoin="round">
+<path d="M400 300v340"/>
+<path d="M400 300c-40-40-120-70-190-40-70 30-80 120-30 180 45 55 150 60 220 20" />
+<path d="M400 300c40-40 120-70 190-40 70 30 80 120 30 180-45 55-150 60-220 20"/>
+<path d="M400 640c-30 25-70 35-110 25M400 665c30 20 70 28 110 18"/>
+<path d="M400 280c-18-26-40-40-62-42M400 280c18-26 40-40 62-42"/>
+</g>
+<g fill="none" stroke="#ff6b45" stroke-width="6" stroke-linecap="round">
+<circle cx="400" cy="300" r="16"/>
+<path d="M400 262c-14-30-38-48-66-52M400 262c14-30 38-48 66-52"/>
+</g>
+<g fill="none" stroke="#e8ddcc" stroke-width="4.5" stroke-linecap="round">
+<path d="M250 330c-35 10-55 45-45 80 10 34 48 52 82 40"/>
+<path d="M550 330c35 10 55 45 45 80-10 34-48 52-82 40"/>
+<path d="M300 430c-25 8-40 30-35 55 5 24 30 38 52 30"/>
+<path d="M500 430c25 8 40 30 35 55-5 24-30 38-52 30"/>
+<circle cx="290" cy="375" r="7"/><circle cx="510" cy="375" r="7"/>
+<circle cx="350" cy="475" r="6"/><circle cx="450" cy="475" r="6"/>
+</g>
+</svg>

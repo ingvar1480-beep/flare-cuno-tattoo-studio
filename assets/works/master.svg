@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Тату-мастер FLARECUNO">
+<rect width="800" height="1000" fill="#14110f"/>
+<circle cx="400" cy="330" r="180" fill="#1c1916"/>
+<g fill="none" stroke="#2a2622" stroke-width="5" stroke-linecap="round">
+<path d="M200 1000c0-130 90-230 200-230s200 100 200 230"/>
+</g>
+<g fill="none" stroke="#e8ddcc" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="400" cy="330" r="150"/>
+<path d="M310 300c15-40 45-60 90-60s75 20 90 60"/>
+<path d="M300 420c20 45 55 70 100 70s80-25 100-70"/>
+<path d="M262 350c-12 25-12 50 0 75M538 350c12 25 12 50 0 75"/>
+<path d="M340 340c8 6 18 6 26 0M434 340c8 6 18 6 26 0"/>
+<path d="M388 355v40c0 12 6 20 16 24"/>
+</g>
+<g fill="none" stroke="#ff6b45" stroke-width="6" stroke-linecap="round">
+<path d="M270 265c35-55 85-85 130-85s95 30 130 85"/>
+<path d="M400 180v-30"/>
+</g>
+<g fill="none" stroke="#e8ddcc" stroke-width="4.5" stroke-linecap="round">
+<path d="M200 1000c30-110 100-190 200-190s170 80 200 190"/>
+</g>
+</svg>

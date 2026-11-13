@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Тату-эскиз: роза и кинжал">
+<rect width="800" height="1000" fill="#14110f"/>
+<g fill="none" stroke="#e8ddcc" stroke-width="6.5" stroke-linecap="round" stroke-linejoin="round">
+<path d="M400 240l-24 90h48l-24-90Z"/>
+<path d="M400 330v430"/>
+<path d="M358 420h84"/>
+<path d="M376 500h48"/>
+</g>
+<g fill="none" stroke="#ff6b45" stroke-width="6" stroke-linecap="round">
+<path d="M400 756l-32 44 32-20 32 20-32-44"/>
+</g>
+<g fill="none" stroke="#e8ddcc" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round">
+<path d="M400 420c-55 0-95 40-95 90s40 90 95 90 95-40 95-90-40-90-95-90Z"/>
+<circle cx="400" cy="510" r="30"/>
+<circle cx="400" cy="510" r="13"/>
+<path d="M400 480c18-16 46-8 50 16M430 510c16 22 0 50-30 46M396 556c-26 10-52-12-42-38M370 480c-14 14-10 38 10 46"/>
+<path d="M330 620c-30 25-45 60-40 100M470 620c30 25 45 60 40 100"/>
+<path d="M305 600c-15 20-20 45-14 70M495 600c15 20 20 45 14 70"/>
+</g>
+</svg>

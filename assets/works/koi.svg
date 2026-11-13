@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Тату-эскиз: карп">
+<rect width="800" height="1000" fill="#14110f"/>
+<g fill="none" stroke="#e8ddcc" stroke-width="6.5" stroke-linecap="round" stroke-linejoin="round">
+<path d="M180 420c90-110 260-140 380-70 55 32 80 60 80 60s-25 28-80 60c-120 70-290 40-380-70Z"/>
+<path d="M640 410c40-30 75-25 95 10-25 30-60 35-95 10"/>
+<path d="M180 420c-35-20-70-10-90 20 25 25 60 30 90 10"/>
+<path d="M300 350c-25-55-15-110 25-150M420 340c-10-60 10-110 55-140"/>
+</g>
+<g fill="none" stroke="#ff6b45" stroke-width="6" stroke-linecap="round">
+<circle cx="585" cy="395" r="11"/>
+<path d="M560 430c-30 18-65 20-95 5M440 470c-35 12-70 8-100-12"/>
+</g>
+<g fill="none" stroke="#e8ddcc" stroke-width="4.5" stroke-linecap="round">
+<path d="M280 390c25 15 55 20 85 10M340 450c30 10 60 8 88-6"/>
+<path d="M250 560c-10 55 5 105 45 140M350 590c-5 55 15 100 60 125M480 560c15 50 45 85 90 105"/>
+<path d="M160 720c40 25 85 35 130 30M560 700c45 10 85 0 120-25"/>
+</g>
+</svg>
