@@ -159,6 +159,29 @@
     });
   }
 
+  var galleryPaths = {
+    animal: 'assets/real/animal/',
+    botanical: 'assets/real/botanical/',
+    maori: 'assets/real/maori/',
+    lettering: 'assets/real/lettering/',
+    oldschool: 'assets/real/oldschool/',
+    japan: 'assets/real/japan/'
+  };
+  var worksGrid = document.getElementById('works-grid');
+
+  function renderGallery() {
+    if (!worksGrid || !window.FLARE_GALLERY || !window.FLARE_GALLERY.length) return;
+    worksGrid.innerHTML = window.FLARE_GALLERY.map(function (item) {
+      var src = galleryPaths[item.cat] + encodeURIComponent(item.file).replace(/%2F/g, '/');
+      return '<figure class="work" data-cat="' + item.cat + '">' +
+        '<button class="work-btn" type="button" data-full="' + src + '" data-title="' + item.title + '" data-meta="' + item.meta + '">' +
+        '<img src="' + src + '" alt="' + item.title + ' — ' + item.meta + '" loading="lazy" width="900" height="1200">' +
+        '<span class="work-info"><strong>' + item.title + '</strong><small>' + item.meta.split(' · ')[0] + '</small></span>' +
+        '</button></figure>';
+    }).join('');
+  }
+
+  renderGallery();
   var chips = Array.prototype.slice.call(document.querySelectorAll('.chip'));
   var works = Array.prototype.slice.call(document.querySelectorAll('.work'));
   var worksEmpty = document.getElementById('works-empty');
